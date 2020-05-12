@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_task1_ComplexNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_task2_SumOfOddPositiveWithTryParse", "Lesson3_task2_SumOfOddPositiveWithTryParse\Lesson3_task2_SumOfOddPositiveWithTryParse.csproj", "{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_task1_Massive20RandomNumbers", "Lesson4_task1_Massive20RandomNumbers\Lesson4_task1_Massive20RandomNumbers.csproj", "{60965FD8-5AE3-4E9B-A5F3-71813485CB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_task2_Class20RandomNumbers", "Lesson4_task2_Class20RandomNumbers\Lesson4_task2_Class20RandomNumbers.csproj", "{B770C141-0FF7-45FD-87F2-C4DE9D6EE802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60965FD8-5AE3-4E9B-A5F3-71813485CB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60965FD8-5AE3-4E9B-A5F3-71813485CB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60965FD8-5AE3-4E9B-A5F3-71813485CB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60965FD8-5AE3-4E9B-A5F3-71813485CB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B770C141-0FF7-45FD-87F2-C4DE9D6EE802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B770C141-0FF7-45FD-87F2-C4DE9D6EE802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B770C141-0FF7-45FD-87F2-C4DE9D6EE802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B770C141-0FF7-45FD-87F2-C4DE9D6EE802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
