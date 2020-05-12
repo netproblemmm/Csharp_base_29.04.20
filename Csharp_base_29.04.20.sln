@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_task4_LoginAndPassw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_task5_IMT_Adviser", "Lesson2_task5_IMT_Adviser\Lesson2_task5_IMT_Adviser.csproj", "{9B3C264F-8146-4C90-93C2-827A928CD386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_task1_ComplexNumbers", "Lesson3_task1_ComplexNumbers\Lesson3_task1_ComplexNumbers.csproj", "{AFE697B4-5492-4B81-AB74-F24D5797A1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_task2_SumOfOddPositiveWithTryParse", "Lesson3_task2_SumOfOddPositiveWithTryParse\Lesson3_task2_SumOfOddPositiveWithTryParse.csproj", "{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{9B3C264F-8146-4C90-93C2-827A928CD386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B3C264F-8146-4C90-93C2-827A928CD386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B3C264F-8146-4C90-93C2-827A928CD386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE697B4-5492-4B81-AB74-F24D5797A1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE697B4-5492-4B81-AB74-F24D5797A1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE697B4-5492-4B81-AB74-F24D5797A1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE697B4-5492-4B81-AB74-F24D5797A1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27D8656-510A-4BA3-87E9-96DBFEE6E76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
