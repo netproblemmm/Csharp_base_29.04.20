@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_task1_LoginCorrectn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_task2_MessageHandler", "Lesson5_task2_MessageHandler\Lesson5_task2_MessageHandler.csproj", "{B1D61BC2-B592-44BE-AB32-07CF7AB31226}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_task1_OutputFunction", "Lesson6_task1_OutputFunction\Lesson6_task1_OutputFunction.csproj", "{9C344916-4DA5-4018-ABD1-B070385763E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_task2_FunctionMinimum", "Lesson6_task2_FunctionMinimum\Lesson6_task2_FunctionMinimum.csproj", "{7CD448AC-5D30-4AEE-B23B-1D96B29AFFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{B1D61BC2-B592-44BE-AB32-07CF7AB31226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1D61BC2-B592-44BE-AB32-07CF7AB31226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1D61BC2-B592-44BE-AB32-07CF7AB31226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C344916-4DA5-4018-ABD1-B070385763E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C344916-4DA5-4018-ABD1-B070385763E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C344916-4DA5-4018-ABD1-B070385763E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C344916-4DA5-4018-ABD1-B070385763E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD448AC-5D30-4AEE-B23B-1D96B29AFFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD448AC-5D30-4AEE-B23B-1D96B29AFFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD448AC-5D30-4AEE-B23B-1D96B29AFFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD448AC-5D30-4AEE-B23B-1D96B29AFFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
